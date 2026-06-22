@@ -1,6 +1,6 @@
 # Hi 👋, I'm M Ritheesh
 
-### 🚀 Full Stack Developer | Java Developer | MERN Stack Developer
+### 🚀 Full Stack Developer | Java Developer | Problem Solver
 
 <p align="center">
   <a href="https://ritheeshportfolio.vercel.app/">
@@ -178,26 +178,6 @@ Developed using Python, Flask, XLNet, FastText, CNN, NumPy, and Pandas.
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRitheesh&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRitheesh&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MRitheesh&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -214,13 +194,9 @@ Developed using Python, Flask, XLNet, FastText, CNN, NumPy, and Pandas.
 <img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://leetcode.com/u/Ritheesh_M/)"/>
 </a>
 
-<a href="#">
-<img src="https://www.hackerrank.com/profile/rithishreddy3"/>
-</a>
+
 
 </p>
-
----
 
 <p align="center">
 ⭐ From <b>M Ritheesh</b> | Building Scalable Applications & Solving Real-World Problems
